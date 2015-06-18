@@ -7,7 +7,8 @@ The script run_analysis does the 5 steps from the project description
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 <h1>Variables</h1>
-Information about the variables (including units!) in the data set not contained in the tidy data
+Information about the variables in the data set not contained in the tidy data.
+
 features_train, features_test, activity_train, activity_test, subject_train, subject_test are data frames used to store the data from the data files
 features_data, activity_data, subject_data contain the merged data frames
 combined_data contains the final merged data for features activity and subject
